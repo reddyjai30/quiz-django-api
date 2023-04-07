@@ -25,8 +25,8 @@ SECRET_KEY = '*bluc3((=fdo#6s^ot4)#&5yr=5==7)uwsg79afl%l-pm)(sqq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localHost', 'quiz-django.herokuapp.com']
-
+#ALLOWED_HOSTS = ['localHost', 'quiz-django.herokuapp.com']
+ALLOWED_HOSTS = []
 
 # Application definition
 
